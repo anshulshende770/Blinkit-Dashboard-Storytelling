@@ -4,6 +4,8 @@
 
 This repository contains the Power BI dashboard project for Blinkit, designed to deliver actionable insights on customer feedback, delivery performance, product inventory, and customer segmentation. The dashboard leverages multiple data tables to provide a comprehensive, interactive, and visually compelling analytics experience.
 
+
+
 ## 📊 Dashboard Features
 
 - Customer Feedback & Sentiment Analysis:  
@@ -44,7 +46,7 @@ This repository contains the Power BI dashboard project for Blinkit, designed to
 4. Refresh the data.
 5. Explore and interact with the dashboard using slicers and filters.
 
-## 📂 Folder Structure
+Note: Dashboard might slighly differ due to some recent changes....bye ;)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
